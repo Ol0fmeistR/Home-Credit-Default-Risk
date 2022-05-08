@@ -1,4 +1,4 @@
-# Home_Credit_Default_Risk_Kaggle
+### Home Credit Default Risk
  Link to the datasets used : https://www.kaggle.com/c/home-credit-default-risk/data
  
 **OVERVIEW OF THE COMPETITION:** <br><br> Home Credit strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience. In order to make sure this underserved population has a positive loan experience, Home Credit makes use of a variety of alternative data--including telco and transactional information--to predict their clients' repayment abilities.
